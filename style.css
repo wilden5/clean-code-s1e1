@@ -97,7 +97,8 @@ body {
   margin-bottom: 20px;
 }
 
-input[type="text"] {
+.task-row__input,
+.item__input {
   margin: 0;
   font-size: 18px;
   line-height: 18px;
@@ -110,7 +111,8 @@ input[type="text"] {
   color: #888;
 }
 
-input[type="text"]:focus {
+.task-row__input:focus,
+.item__input:focus {
   color: #333;
 }
 
