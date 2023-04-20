@@ -162,11 +162,11 @@ ul li input[type=text] {
   display: none;
 }
 
-ul li.editMode input[type=text] {
+ul li.incomplete-list__item_edit input[type=text] {
   display: inline-block;
   width: 224px
 }
 
-ul li.editMode label {
+ul li.incomplete-list__item_edit label {
   display: none;
 }
