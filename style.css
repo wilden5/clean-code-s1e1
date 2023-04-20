@@ -152,7 +152,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+.completed-item__list label {
   text-decoration: line-through;
   color: #888;
 }
