@@ -22,8 +22,8 @@ body {
 
 @media (max-width: 768px) {
 
-.header-wrapper {
-  text-align: center;
+  .header-wrapper {
+    text-align: center;
   }
 
 }
@@ -162,7 +162,7 @@ body {
 /* Edit Task */
 .incomplete-list__item_edit .item__input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .incomplete-list__item_edit label,
